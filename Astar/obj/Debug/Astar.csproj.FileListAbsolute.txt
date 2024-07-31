@@ -1,0 +1,11 @@
+C:\Users\isra\Desktop\yapay\Astar\Astar\bin\Debug\Astar.exe.config
+C:\Users\isra\Desktop\yapay\Astar\Astar\bin\Debug\Astar.exe
+C:\Users\isra\Desktop\yapay\Astar\Astar\bin\Debug\Astar.pdb
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.csproj.AssemblyReference.cache
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.csproj.SuggestedBindingRedirects.cache
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.Form1.resources
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.Properties.Resources.resources
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.csproj.GenerateResource.cache
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.csproj.CoreCompileInputs.cache
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.exe
+C:\Users\isra\Desktop\yapay\Astar\Astar\obj\Debug\Astar.pdb
